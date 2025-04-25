@@ -33,3 +33,9 @@ To run the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Shivanshhh2510/SALES-PREDICTION.git
+2. Install the required libraries:
+pip install -r requirements.txt
+
+3. Run the main code:
+python main.py
+
